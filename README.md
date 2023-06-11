@@ -5,7 +5,7 @@
 ##### **PROJETO DE IRRIGAÇÃO COM MONITORAMENTO AUTOMATIZADO (Grupo: AMIP)**
  
  
-### 2. Integrantes do projeto, com os respectivos contatos:  
+### **2. Integrantes do projeto, com os respectivos contatos:**  
 
 * Liane Heidemann (liane22070222@aluno.cesupa.br)  
     
@@ -18,7 +18,7 @@
 * Luan Augusto (luan22070212@aluno.cesupa.br)
     
     
-#### 3. Objetivos: 
+#### **3. Objetivos:** 
 
 * Trazer inovações tecnológicas para a Ilha de Cutijuba
     
@@ -31,7 +31,7 @@
 * Possibilitar a criação de espécies de plantas menos resistentes na área
  
   
-#### 4. As principais funcionalidades: 
+#### 4. **As principais funcionalidades:** 
 
 * Irrigação Automatizada
     
