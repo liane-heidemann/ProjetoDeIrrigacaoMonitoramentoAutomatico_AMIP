@@ -1,11 +1,11 @@
 # ProjetoIrrigacaoMonitoramentoAutomatico_AMIP
 
-1. Título do Projeto: 
+## 1. Título do Projeto: 
    
      PROJETO DE IRRIGAÇÃO COM MONITORAMENTO AUTOMATIZADO (AMIP)
  
  
-2. Integrantes do projeto, com os respectivos contatos:  
+## 2. Integrantes do projeto, com os respectivos contatos:  
 
     Liane Heidemann ( liane22070222@aluno.cesupa.br );   
     
@@ -18,7 +18,7 @@
     Luan Augusto ( luan22070212@aluno.cesupa.br ).
     
     
-3. Objetivos: 
+## 3. Objetivos: 
 
     Trazer inovações tecnológicas para a Ilha de Cutijuba;
     
@@ -31,7 +31,7 @@
     Possibilitar a criação de espécies de plantas menos resistentes na área.
   
   
-4. As principais funcionalidades: 
+## 4. As principais funcionalidades: 
 
     Irrigação Automatizada;
     
@@ -46,7 +46,7 @@
     Aplicativo para Controle e Monitoramento.
 
 
-5. Imagens:
+## 5. Imagens:
 
 
     ![1](https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/0e9a8925-bb6a-42ee-afb8-ab28d2bbaaf7)
