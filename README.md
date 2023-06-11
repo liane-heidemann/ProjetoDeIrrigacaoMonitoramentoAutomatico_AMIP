@@ -7,7 +7,7 @@
  
 #### 2. Integrantes do projeto, com os respectivos contatos: 
 
-* Liane Ferreira Heidemann (liane22070222@aluno.cesupa.br)  
+* Liane Ferreira Heidemann: liane22070222@aluno.cesupa.br
     
 * Luis Imhotep (luis22070056@aluno.cesupa.br)
        
