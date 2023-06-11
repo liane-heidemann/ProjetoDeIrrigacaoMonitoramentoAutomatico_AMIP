@@ -1,69 +1,78 @@
-1. Título do Projeto: 
-   
-     PROJETO DE IRRIGAÇÃO COM MONITORAMENTO AUTOMATIZADO (AMIP)
+#include <LiquidCrystal_I2C.h>
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+#include <DFRobot_DHT11.h>
+DFRobot_DHT11 DHT;
+#define DHT11_PIN 2
+
+#define PIN_SensorUmidadeSolo A3
+
+String mensagem1;
+String mensagem2;
+String mensagemX;
+int x1;
+int x2;
+int x3;
+
+void setup(){  
+  lcd.init();
+	lcd.backlight();
+  pinMode(PIN_SensorUmidadeSolo, INPUT);
+;	Serial.begin(9600);  
+;  }
  
- 
-2. Integrantes do projeto, com os respectivos contatos:  
+void loop(){ 
+  temperatura(); 
+  umidadeDoAr();
+  display();  
+  umidadeDaTerra(); 
+  display();   
+  bluetoohMensagem();
+}
 
-    Liane Heidemann ( liane22070222@aluno.cesupa.br );   
-    
-    Luis Imhotep ( luis22070056@aluno.cesupa.br );
-       
-    Fabio Gabriel Areas  ( fabio21070209@aluno.cesupa.br );
-    
-    Fellipe Santos ( fellipe20070001@aluno.cesupa.br );
-    
-    Luan Augusto ( luan22070212@aluno.cesupa.br ).
-    
-    
-3. Objetivos: 
+void umidadeDaTerra(){  
+  int umidade = analogRead(PIN_SensorUmidadeSolo);
+  int porcento = map(umidade, 0, 1023, 0, 100);
+  x3 = porcento;
+  mensagem1 ="Umidade do Solo:";
+  mensagem2 = String(porcento)+"%";
+}
 
-    Trazer inovações tecnológicas para a Ilha de Cutijuba;
-    
-    Ajudar com a produção agrícola da região;
-    
-    Automação de estufas;
-    
-    Criar mudas mais fortes e saudáveis;
-    
-    Possibilitar a criação de espécies de plantas menos resistentes na área.
-  
-  
-4. As principais funcionalidades: 
+void umidadeDoAr() {
+  DHT.read(DHT11_PIN);
+  int h = DHT.humidity;
+  x1 = h;
+  mensagem1 = "Umidade do Ar: ";
+  mensagem2 = String(h) + "%";
+}
 
-    Irrigação Automatizada;
-    
-    Monitoramento da Temperatura;
-    
-    Monitoramento da Umidade do Ar;
-    
-    Monitoramento da Umidade do Solo;
-    
-    Visualização de Dados Através de um Display;
-    
-    Aplicativo para Controle e Monitoramento.
+void temperatura() {
+  DHT.read(DHT11_PIN);
+  int t = DHT.temperature;
+  x2 = t;
+  mensagem2 = String(t);
+  lcd.setCursor(0,0); 
+  lcd.print("Temperatura:"); 
+  lcd.setCursor(0,1);           
+  lcd.print(mensagem2);
+  lcd.write(B11011111);
+  lcd.print("C");
+  delay(3000);
+  lcd.clear();     
+}
 
+void display() {
+  lcd.setCursor(0,0);          
+  lcd.print(mensag/em1); 
+  lcd.setCursor(0,1);           
+  lcd.print(mensagem2);
+  delay(3000);
+  lcd.clear();
+}
 
-5. Imagens:
-
-
-    ![1](https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/0e9a8925-bb6a-42ee-afb8-ab28d2bbaaf7)
-
-   
-   
- 6. Video:
-  
-
-https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/2eb80eb0-0f2e-4421-a11c-d07dc6f825db
-
-7. Videos no YouTube:
-
-   Ingles:
-   https://youtu.be/ssVJw3uxbbc
-   
-   Portugues:
-   https://youtu.be/JLAvxtxcF6M
-
-
-
-# Smart Green House
+void bluetoohMensagem(){
+  DHT.read(DHT11_PIN);
+  mensagemX = (String) "[ "+ x1 +"% ]   [ "+ x2 +"°C ]   [ " + x3 +"% ]";
+  Serial.println(mensagemX);
+  delay(2000);
+}
