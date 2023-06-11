@@ -44,7 +44,7 @@
 * Visualização de Dados Através de um Display
     
 
-## Imagens:
+## Foto do Projeto:
 
 
 ![1](https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/0e9a8925-bb6a-42ee-afb8-ab28d2bbaaf7)
