@@ -1,8 +1,8 @@
-# ProjetoDeIrrigacaoComMonitoramentoAutomatico
+## ProjetoDeIrrigacaoComMonitoramentoAutomatico (Grupo: AMIP)
 
 #### 1. Título do Projeto: 
    
-* **PROJETO DE IRRIGAÇÃO COM MONITORAMENTO AUTOMATIZADO (Grupo: AMIP)**
+  PROJETO DE IRRIGAÇÃO COM MONITORAMENTO AUTOMATIZADO 
  
  
 #### 2. Integrantes do projeto, com os respectivos contatos: 
@@ -46,11 +46,14 @@
 
 ## Foto do Projeto:
 
+
 ![1](https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/0e9a8925-bb6a-42ee-afb8-ab28d2bbaaf7)
+
  
    
 ## Video:
   
+
 https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/2eb80eb0-0f2e-4421-a11c-d07dc6f825db
 
 ## Videos no YouTube:
