@@ -61,10 +61,10 @@ https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP
 ## Videos no YouTube:
 
 * ##### Portugues:
-* [https://youtu.be/CeOX5DaF4m8?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb]
+  [https://youtu.be/CeOX5DaF4m8?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb]
 
 * ##### Ingles:
-* [https://youtu.be/XomKhprOvek?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb]
+  [https://youtu.be/XomKhprOvek?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb]
    
 
 
