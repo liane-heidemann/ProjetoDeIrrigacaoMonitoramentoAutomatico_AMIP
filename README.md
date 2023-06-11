@@ -29,7 +29,7 @@
     Criar mudas mais fortes e saudáveis;
     
     Possibilitar a criação de espécies de plantas menos resistentes na área.
-  
+ 
   
 ## 4. As principais funcionalidades: 
 
@@ -43,27 +43,25 @@
     
     Visualização de Dados Através de um Display;
     
-    Aplicativo para Controle e Monitoramento.
-
 
 ## 5. Imagens:
 
 
     ![1](https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/0e9a8925-bb6a-42ee-afb8-ab28d2bbaaf7)
 
+ 
    
-   
- 6. Video:
+## 6. Video:
   
 
 https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento-automatico/assets/54177181/2eb80eb0-0f2e-4421-a11c-d07dc6f825db
 
-7. Videos no YouTube:
+## 7. Videos no YouTube:
 
-   Ingles:
+   # Ingles:
    [https://youtu.be/ssVJw3uxbbc](https://youtu.be/ssVJw3uxbbc)
    
-   Portugues:
+   # Portugues:
    [https://youtu.be/JLAvxtxcF6M]
 
 
