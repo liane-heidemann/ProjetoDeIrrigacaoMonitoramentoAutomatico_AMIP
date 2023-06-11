@@ -7,41 +7,41 @@
  
 ## 2. Integrantes do projeto, com os respectivos contatos:  
 
-* Liane Heidemann (liane22070222@aluno.cesupa.br);   
+* Liane Heidemann (liane22070222@aluno.cesupa.br)  
     
-* Luis Imhotep ( luis22070056@aluno.cesupa.br );
+* Luis Imhotep (luis22070056@aluno.cesupa.br)
        
-* Fabio Gabriel Areas  ( fabio21070209@aluno.cesupa.br );
+* Fabio Gabriel Areas  (fabio21070209@aluno.cesupa.br )
     
-* Fellipe Santos ( fellipe20070001@aluno.cesupa.br );
+* Fellipe Santos (fellipe20070001@aluno.cesupa.br)
     
-* Luan Augusto ( luan22070212@aluno.cesupa.br ).
+* Luan Augusto (luan22070212@aluno.cesupa.br)
     
     
 ## 3. Objetivos: 
 
-    Trazer inovações tecnológicas para a Ilha de Cutijuba;
+* Trazer inovações tecnológicas para a Ilha de Cutijuba
     
-    Ajudar com a produção agrícola da região;
+* Ajudar com a produção agrícola da região
     
-    Automação de estufas;
+* Automação de estufas
     
-    Criar mudas mais fortes e saudáveis;
+* Criar mudas mais fortes e saudáveis
     
-    Possibilitar a criação de espécies de plantas menos resistentes na área.
+* Possibilitar a criação de espécies de plantas menos resistentes na área
  
   
 ## 4. As principais funcionalidades: 
 
-    Irrigação Automatizada;
+* Irrigação Automatizada
     
-    Monitoramento da Temperatura;
+* Monitoramento da Temperatura
     
-    Monitoramento da Umidade do Ar;
+* Monitoramento da Umidade do Ar
     
-    Monitoramento da Umidade do Solo;
+* Monitoramento da Umidade do Solo
     
-    Visualização de Dados Através de um Display;
+* Visualização de Dados Através de um Display
     
 
 ## 5. Imagens:
@@ -58,10 +58,10 @@ https://github.com/Projeto-Integrado-Cesupa/amip-projeto-irrigacao-monitoramento
 
 ## 7. Videos no YouTube:
 
-   # Ingles:
+* # Ingles:
    [https://youtu.be/ssVJw3uxbbc](https://youtu.be/ssVJw3uxbbc)
    
-   # Portugues:
+* # Portugues:
    [https://youtu.be/JLAvxtxcF6M]
 
 
