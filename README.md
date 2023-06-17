@@ -41,8 +41,9 @@
     
 * Monitoramento da Umidade do Solo
     
-* Visualização de Dados Através de um Display
+* Visualização dos Dados Coletados Através de um Display
     
+* Visualização dos Dados Coletados Através do Terminal do Aplicativo "Arduino Bluetooth Controller" (Usando um módulo Bluetooth com o Arduino) baixado na PlayStore: https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller
 
 ## Foto do Projeto:
 
