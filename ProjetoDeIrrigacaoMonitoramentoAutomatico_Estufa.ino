@@ -16,10 +16,10 @@ int x3;
 
 void setup(){  
   lcd.init();
-	lcd.backlight();
+  lcd.backlight();
   pinMode(PIN_SensorUmidadeSolo, INPUT);
-;	Serial.begin(9600);  
-;  }
+  Serial.begin(9600);  
+}
  
 void loop(){ 
   temperatura(); 
@@ -72,7 +72,7 @@ void display() {
 
 void bluetoohMensagem(){
   DHT.read(DHT11_PIN);
-  mensagemX = (String) "[ "+ x1 +"% ]   [ "+ x2 +"°C ]   [ " + x3 +"% ]";
+  mensagemX = (String) "[ Umid do Ar: "+ x1 +"% ]   [ Temp: "+ x2 +"°C ]   [ Umid da Terra: " + x3 +"% ]";
   Serial.println(mensagemX);
   delay(2000);
 }
