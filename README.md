@@ -55,8 +55,8 @@
 * 1 - Módulo Serial I2C para Display LCD (PCF8574)
 * 1 - Módulo Bluetooth (HC-05 - JY-MCU)
 * 2- Interruptor On-Off Slide Switch 3pin
-* 15? - Cabo Jumper
-* 12? - Jumper Rígido em Formato de “U”
+* 15 - Cabo Jumper
+* 10 - Jumper Rígido em Formato de “U”
 * 1 - Fita Isolante
 * 1 - Mangueira de Irrigação de 0,5m
 * 1 - Fonte de alimentação de 5V para o Arduino 
