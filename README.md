@@ -59,6 +59,8 @@
 * 12? - Jumper Rígido em Formato de “U”
 * 1 - Fita Isolante
 * 1 - Mangueira de Irrigação de 0,5m
+* 1 - Fonte de alimentação de 5V para o Arduino 
+* 1 - Fonte de alimentação de 12V para a Bomba D'agua
 
 ## Foto do Projeto:
 
