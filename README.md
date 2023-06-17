@@ -45,7 +45,8 @@
     
 * Visualização dos Dados Coletados Através do Terminal do Aplicativo "Arduino Bluetooth Controller", baixado na PlayStore: https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller
 
-#### 5. Material Utilizado	
+#### 5. Material Utilizado:
+
 * 1 - Placa UNO R3
 * 1 - Sensor de Umidade do Ar e Temperatura (DHT11)
 * 1 - Cooler de 5V – 30x30mm
